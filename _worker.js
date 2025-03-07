@@ -669,7 +669,7 @@ const mainPage = `
     <a href="https://blocked.goguardian.com/" style="visibility:hidden"></a>
     <a href="https://www.google.com/gen_204" style="visibility:hidden"></a>
     <p style="font-size:280px !important;width:100%;" class="center">
-        ☭
+        🗽
     </p>
 </body>
 </html>
